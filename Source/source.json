@@ -2,22 +2,18 @@
   "name": "Zad9119's Source",
   "subtitle": "A source for sideloader apps like AltStore and SideStore with some of the best apps",
   "description": "A source for sideloader apps like AltStore and SideStore with some of the best apps the community has to offer (Suggest apps for me to add if you have a good suggestion).",
-  "iconURL": "https://i.imgur.com/tkiRsp9.png",
-  "website": "https://github.com/Zad9119/Zad9119-s-Source/",
+  "iconURL": "https://imgur.com",
+  "website": "https://github.com",
   "patreonURL": "",
   "tintColor": "#6156e2",
-  "featuredApps": [
-    "com.google.ios.youtube"
-  ],
   "apps": [
     {
       "name": "YTPlusM",
       "bundleIdentifier": "com.google.ios.youtube",
-      "marketplaceID": "",
       "developerName": "Mark02-2012",
       "subtitle": "An awesome app.",
       "localizedDescription": "This is an awesome app only available on AltStore.",
-      "iconURL": "https://i.imgur.com/W2nTpDb.png",
+      "iconURL": "https://imgur.com",
       "tintColor": "#fc0434",
       "category": "entertainment",
       "screenshots": [],
@@ -26,7 +22,7 @@
           "version": "21.26.4",
           "date": "2026-07-17T22:00:00-04:00",
           "localizedDescription": "Version 5.2.1 of YTPlusM",
-          "downloadURL": "https://github.com/Zad9119/Zad9119-s-Source/raw/refs/heads/main/IPAs/YTPlusM/YTPlusM_21.26.4_5.2.1.ipa",
+          "downloadURL": "https://github.comraw/refs/heads/main/IPAs/YTPlusM/YTPlusM_21.26.4_5.2.1.ipa",
           "size": 137400000,
           "buildVersion": "5.2.1",
           "minOSVersion": "15.0"
@@ -45,9 +41,7 @@
           "NSContactsUsageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with.",
           "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created."
         }
-      },
-      "patreon": {}
+      }
     }
-  ],
-  "news": []
+  ]
 }
